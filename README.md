@@ -1,4 +1,4 @@
-Title: Facial Expression Recognition
+Title: Mind Game
 1. Methodology
 ![level0 dfd](https://user-images.githubusercontent.com/67942589/208189417-988004d6-b2bf-4160-b8f4-4e4ca9d0484f.png)
 
